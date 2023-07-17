@@ -10,9 +10,9 @@ TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) is a mul
 The TOPSIS method provides us with the ability to rank alternatives based on relative similarity for ideal solution. Ideal solution is classified in two ways: positive and negative. Positive ideal solutions give maximum benefit criteria and minimum cost criteria.
 Some of the advantages of TOPSIS methods are:
 
-Simplicity
-Rationality
-Comprehensibility
-Good computational efficiency
+Simplicity,
+Rationality,
+Comprehensibility,
+Good computational efficiency,
 Ability to measure the relative performance for each alternative in a simple mathematical form 12.
 The relative closeness value is calculated for each alternative and is defined as the ratio of the distance from the ideal solution to the sum of the distances from the ideal and negative ideal solutions ⁵. The relative closeness value is always between 0 and 1, and an alternative is best when it is closer to 1.
